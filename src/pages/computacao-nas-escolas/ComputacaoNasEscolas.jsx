@@ -61,7 +61,7 @@ export default function ComputacaoNasEscolas() {
       </section>
 
       <section className="page-section">
-        <h2 className="section-title">Aplicação das Sequências Didáticas</h2>
+        <h2 className="section-title">Aplicação e Resultados</h2>
 
         <p className="paragraph">
           As sequências didáticas foram aplicadas nas turmas do Ensino Fundamental I da Escola São Domingos Sávio (Campina Grande - PB), com a participação da tutora Lívia Sampaio Campos, membros do Pet Computação e outros alunos do curso de Ciência da Computação da UFCG. A partir das aulas, foram observados resultados significativos, como maior engajamento dos alunos nas aulas de Informática, melhor compreensão sobre o uso ético e seguro das tecnologias, além do fortalecimento do raciocínio lógico e do pensamento computacional. As crianças também demonstraram maior consciência sobre segurança e privacidade, além da importância do respeito e da empatia no ambiente on-line.
